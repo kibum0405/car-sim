@@ -1,9 +1,8 @@
 package carsim.main;
 
-public class Simulator {
+public class Simulate {
 
     Long id;
-    Car car;
 
     public static void main(String args[]) {}
 }
